@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3c69fafb-24df-4142-9228-81779ee044dc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/187226f7-3db6-4ab3-b869-4ad2da38906a.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ai.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/Mp3LameEncoder.min.js.mem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/OggVorbisEncoder.min.js.mem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/WebAudioRecorder.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/WebAudioRecorderMp3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/WebAudioRecorderOgg.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/WebAudioRecorderWav.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/styles/js/Mp3LameEncoder.min.js.mem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/styles/js/OggVorbisEncoder.min.js.mem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/styles/js/WebAudioRecorder.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/styles/js/WebAudioRecorderMp3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/styles/js/WebAudioRecorderOgg.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/styles/js/WebAudioRecorderWav.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/styles/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,16 +43,19 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="24ehSSv7ADhASzPj0QUGY3KBAUV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.app">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Rugved-profile" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -47,9 +77,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Rugved-profile" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.app" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -63,5 +115,8 @@
       <updated>1643996960403</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
