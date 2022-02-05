@@ -1,0 +1,64 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  font-family: "Montserrat";
+  font-size: 20px;
+}
+body {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+   background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.5)) , url('images/ai.gif');
+}
+
+section {
+  min-height: 100vh;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  }
+section h1 {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  width: 100%;
+  font-size: 55px;
+  margin-bottom: 10px;
+  text-shadow: 2px 2px 2px #3236fc;
+}
+section p {
+  text-align: center;
+  color: rgba(255, 255, 255, 0.322);
+  width: 100%;
+  margin-bottom: 10px;
+
+}
+.container {
+  width: 90%;
+  max-width: 500px;
+  margin: 0 auto;
+  justify-content: center;
+}
+.texts p {
+  color: rgb(245, 214, 214);
+  text-align: left;
+  width: 100%;
+  background-color: rgba(134, 96, 236, 0.61);
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+.texts p.replay {
+  text-align: right;
+}
