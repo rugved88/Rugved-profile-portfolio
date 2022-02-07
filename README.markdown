@@ -1,5 +1,7 @@
-# Speech Recognition App #30days30submits #day-24
+# Voice Assistant Portfolio
+> Auther: Rugved Chavan
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Web_Cifar/pen/jOqBEjE](https://codepen.io/Web_Cifar/pen/jOqBEjE).
+- Based on complete HTML, JavaScript & CSS
+Python was only used for hosting the site
 
-
+- View the webapp on : https://rugved-app.herokuapp.com/
